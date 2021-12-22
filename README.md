@@ -29,7 +29,7 @@ Nowadays, the number of people using flights has increased significantly. It is 
 
 ## AIM:<a name="aim"></a>
 
-The objective of this article is to predict flight prices given the various parameters. Data used in this article is publicly available at Kaggle. This will be a regression problem since the target or dependent variable is the price (continuous numeric value).
+The objective is to predict flight prices given the various parameters. Data used in this article is publicly available at Kaggle. This will be a regression problem since the target or dependent variable is the price (continuous numeric value).
 
 ## Dataset Used:<a name="data"></a>
 
